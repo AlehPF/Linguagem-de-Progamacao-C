@@ -5,7 +5,7 @@
 
 Este repositório contém material relacionado à disciplina de Linguagem de Programação em C. A ementa da disciplina abrange conceitos fundamentais de algoritmos, lógica de programação, representação de algoritmos, programação estruturada, linguagens de programação e ambientes de programação.
 
-
+/div
 **Tópicos Abordados**
 
 1- Algoritmos e Lógica de Programação: Compreensão dos princípios fundamentais para a construção de algoritmos eficientes.
