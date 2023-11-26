@@ -8,8 +8,8 @@ Este repositório contém material relacionado à disciplina de Linguagem de Pro
 **Tópicos Abordados**
 
 1- Algoritmos e Lógica de Programação: Compreensão dos princípios fundamentais para a construção de algoritmos eficientes.
-2- Formas de Representação de Algoritmos: Exploração de diferentes formas de representar algoritmos para facilitar o entendimento e a implementação.
 
+2- Formas de Representação de Algoritmos: Exploração de diferentes formas de representar algoritmos para facilitar o entendimento e a implementação.
 3- Programação Estruturada: Introdução aos conceitos da programação estruturada, promovendo a organização lógica do código.
 
 4- Variáveis: Nomeação, declaração, inicialização e tipos de dados. Entendimento profundo das variáveis e seu papel na construção de programas.
