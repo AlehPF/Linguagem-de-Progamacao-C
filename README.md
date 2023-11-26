@@ -1,5 +1,6 @@
 **Linguagem de Programação em C**
 
+
 **Descrição**
 
 Este repositório contém material relacionado à disciplina de Linguagem de Programação em C. A ementa da disciplina abrange conceitos fundamentais de algoritmos, lógica de programação, representação de algoritmos, programação estruturada, linguagens de programação e ambientes de programação.
@@ -10,6 +11,7 @@ Este repositório contém material relacionado à disciplina de Linguagem de Pro
 1- Algoritmos e Lógica de Programação: Compreensão dos princípios fundamentais para a construção de algoritmos eficientes.
 
 2- Formas de Representação de Algoritmos: Exploração de diferentes formas de representar algoritmos para facilitar o entendimento e a implementação.
+
 3- Programação Estruturada: Introdução aos conceitos da programação estruturada, promovendo a organização lógica do código.
 
 4- Variáveis: Nomeação, declaração, inicialização e tipos de dados. Entendimento profundo das variáveis e seu papel na construção de programas.
@@ -27,5 +29,7 @@ Este repositório contém material relacionado à disciplina de Linguagem de Pro
 10- Funções: Definição, declaração, e tipos de passagem de parâmetro. Utilização eficiente de funções para modularizar o código.
 
 11- Entrada e Saída de Dados: Manipulação de arquivos, acesso sequencial e acesso direto para efetuar operações de entrada e saída.
+
+
 
 **Sinta-se à vontade para explorar os materiais e colaborar neste repositório. Boa jornada de aprendizado em Linguagem de Programação em C!**
