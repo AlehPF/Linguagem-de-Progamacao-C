@@ -18,6 +18,7 @@ Este repositório contém material relacionado à disciplina de Linguagem de Pro
 - Funções: Definição, declaração, e tipos de passagem de parâmetro. Utilização eficiente de funções para modularizar o código.
 - Entrada e Saída de Dados: Manipulação de arquivos, acesso sequencial e acesso direto para efetuar operações de entrada e saída.
 
+## Contribuições
 <div>
   <strong>Sinta-se à vontade para explorar os materiais e colaborar neste repositório. Boa jornada de aprendizado em Linguagem de Programação em C!</strong>
 </div>
