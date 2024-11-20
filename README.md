@@ -2,23 +2,22 @@
 
 ## Descrição
 
-Este repositório contém material relacionado à disciplina de Linguagem de Programação em C. A ementa da disciplina abrange conceitos fundamentais de algoritmos, lógica de programação, representação de algoritmos, programação estruturada, linguagens de programação e ambientes de programação.
+Este repositório reúne materiais da disciplina **Linguagem de Programação em C**, ministrada pelas professoras **Olga Yevseyeva** e **Priscila Cardoso Calegari** na **Universidade Federal de Santa Catarina (UFSC)**. A ementa aborda conceitos essenciais de algoritmos, lógica de programação e programação estruturada, além de tópicos fundamentais para o desenvolvimento em C.
 
 ## Tópicos Abordados
 
-- Algoritmos e Lógica de Programação: Compreensão dos princípios fundamentais para a construção de algoritmos eficientes.
-- Formas de Representação de Algoritmos: Exploração de diferentes formas de representar algoritmos para facilitar o entendimento e a implementação.
-- Programação Estruturada: Introdução aos conceitos da programação estruturada, promovendo a organização lógica do código.
-- Variáveis: Nomeação, declaração, inicialização e tipos de dados. Entendimento profundo das variáveis e seu papel na construção de programas.
-- Expressões: Abordagem de expressões aritméticas, literais, lógicas e relacionais, fornecendo as bases para a construção de algoritmos mais complexos.
-- Estruturas de Controle de Fluxo: Linear, condicional e de repetição. Exploração de diferentes estruturas de controle para direcionar o fluxo do programa.
-- Estruturas de Dados Simples: Manipulação de vetores, matrizes e registros para armazenamento eficiente de dados.
-- Arquitetura de Programa Mínimo: Exploração de paradigmas, regras de escopo, funções e modularização para o desenvolvimento de programas mais organizados.
-- Ponteiros e Alocação Dinâmica: Compreensão aprofundada do conceito de ponteiros e alocação dinâmica de memória.
-- Funções: Definição, declaração, e tipos de passagem de parâmetro. Utilização eficiente de funções para modularizar o código.
-- Entrada e Saída de Dados: Manipulação de arquivos, acesso sequencial e acesso direto para efetuar operações de entrada e saída.
+- **Algoritmos e Lógica de Programação:** Fundamentos para a criação de algoritmos eficientes e bem estruturados.  
+- **Formas de Representação de Algoritmos:** Métodos para representar algoritmos, facilitando sua análise e implementação.  
+- **Programação Estruturada:** Organização lógica do código, promovendo clareza e manutenção.  
+- **Variáveis:** Declaração, inicialização, tipos de dados e boas práticas para manipulação de variáveis.  
+- **Expressões:** Aritméticas, literais, lógicas e relacionais, essenciais para o controle e processamento de dados.  
+- **Estruturas de Controle de Fluxo:** Direcionamento lógico com estruturas lineares, condicionais e de repetição.  
+- **Estruturas de Dados Simples:** Uso de vetores, matrizes e registros para organizar e processar informações.  
+- **Arquitetura de Programa Mínimo:** Paradigmas, escopo, modularização e funções para programas escaláveis.  
+- **Ponteiros e Alocação Dinâmica:** Manipulação de memória para maior eficiência e flexibilidade.  
+- **Funções:** Declaração, definição e tipos de passagem de parâmetros, promovendo modularidade.  
+- **Entrada e Saída de Dados:** Operações com arquivos, acesso sequencial e direto para manipulação eficiente de dados.  
 
-## Contribuições
-<div>
-  <strong>Sinta-se à vontade para explorar os materiais e colaborar neste repositório. Boa jornada de aprendizado em Linguagem de Programação em C!</strong>
-</div>
+## Licença
+
+Sinta-se à vontade para utilizar e adaptar os conteúdos deste repositório. 
