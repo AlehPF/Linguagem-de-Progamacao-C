@@ -1,23 +1,45 @@
-# Linguagem de Programação em C
+# Linguagem de Programação I - C  
+**Professoras:** Olga Yevseyeva e Priscila Cardoso Calegari  
 
-## Descrição
+## 📚 Ementa  
+Este repositório contém materiais e exemplos práticos relacionados à disciplina de **Linguagem de Programação I** em **C**, com foco em fundamentos de programação estruturada e lógica de programação.  
 
-Este repositório reúne materiais da disciplina **Linguagem de Programação em C**, ministrada pelas professoras **Olga Yevseyeva** e **Priscila Cardoso Calegari** na **Universidade Federal de Santa Catarina (UFSC)**. A ementa aborda conceitos essenciais de algoritmos, lógica de programação e programação estruturada, além de tópicos fundamentais para o desenvolvimento em C.
+### Conteúdo abordado:  
+1. **Algoritmos e Lógica de Programação**  
+   - Formas de representação de algoritmos.  
+2. **Programação Estruturada**  
+   - Introdução a linguagens de programação e ambientes de desenvolvimento.  
+3. **Manipulação de Variáveis**  
+   - Nomeação, declaração, inicialização e tipos de dados.  
+4. **Expressões**  
+   - Aritméticas, literais, lógicas e relacionais.  
+5. **Estruturas de Controle de Fluxo**  
+   - Fluxo linear, condicional e laços de repetição.  
+6. **Estruturas de Dados Simples**  
+   - Vetores, matrizes e registros.  
+7. **Arquitetura de Programas**  
+   - Paradigmas de programação, regras de escopo, funções e modularização.  
+8. **Ponteiros e Alocação Dinâmica**  
+   - Manipulação de memória dinâmica.  
+9. **Funções**  
+   - Definição, declaração e tipos de passagem de parâmetros.  
+10. **Entrada e Saída de Dados**  
+    - Operações com arquivos (acesso sequencial e direto).  
 
-## Tópicos Abordados
+## 🎯 Objetivo da Disciplina  
+- Objetivos Gerais: O aluno ao final desta disciplina deverá ser capaz de transpor um algoritmo, tal como apreendido em lógica de programação, para uma linguagem de programação sob o paradigma da programação estruturada.
+- Objetivos Específicos: Domínio do Contexto Científico e Tecnológico em Linguagem de Programação. Utilização de Ferramentas e Técnicas de Programação. Domínio do Paradigma Entrada, Processamento e Saída de Dados
 
-- **Algoritmos e Lógica de Programação:** Fundamentos para a criação de algoritmos eficientes e bem estruturados.  
-- **Formas de Representação de Algoritmos:** Métodos para representar algoritmos, facilitando sua análise e implementação.  
-- **Programação Estruturada:** Organização lógica do código, promovendo clareza e manutenção.  
-- **Variáveis:** Declaração, inicialização, tipos de dados e boas práticas para manipulação de variáveis.  
-- **Expressões:** Aritméticas, literais, lógicas e relacionais, essenciais para o controle e processamento de dados.  
-- **Estruturas de Controle de Fluxo:** Direcionamento lógico com estruturas lineares, condicionais e de repetição.  
-- **Estruturas de Dados Simples:** Uso de vetores, matrizes e registros para organizar e processar informações.  
-- **Arquitetura de Programa Mínimo:** Paradigmas, escopo, modularização e funções para programas escaláveis.  
-- **Ponteiros e Alocação Dinâmica:** Manipulação de memória para maior eficiência e flexibilidade.  
-- **Funções:** Declaração, definição e tipos de passagem de parâmetros, promovendo modularidade.  
-- **Entrada e Saída de Dados:** Operações com arquivos, acesso sequencial e direto para manipulação eficiente de dados.  
+## 📂 Estrutura do Repositório  
+- **/Listas**: Exemplos práticos e exercícios de fixação.  
+- **/Unidades**: Códigos úteis para implementação dos conceitos
 
-## Licença
+## 🛠️ Ferramentas Utilizadas  
+- **IDE:** Visual Studio Code.  
+- **Compilador:** GCC (GNU Compiler Collection).  
 
-Sinta-se à vontade para utilizar e adaptar os conteúdos deste repositório. 
+## 📫 Contato  
+Dúvidas? Entre em comigo por e-mail:  
+- **Alisson Pereira Ferreira:** [email](mailto:alissonpef@gmail.com)
+
+Aproveite o aprendizado! 🚀
