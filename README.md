@@ -55,12 +55,17 @@ Este repositório contém materiais e exemplos práticos relacionados à discipl
    git clone https://github.com/alissonpef/Linguagem_de_Progamacao-C.git
    ```
 
-2. **Navegar pelos Diretórios:** Explore os diretórios para encontrar os materiais de estudo e exercícios desejados.
+2. **Navegar pelos Diretórios:** Explore os diretórios para encontrar os materiais de estudo, projetos e exercícios desejados.
 
-3. **Compilar os Códigos:** Utilize um compilador de C, como o `gcc`, para compilar e executar os programas. Por exemplo:
+3. **Abrir e Editar os Códigos:** Utilize uma IDE compatível com a linguagem de programação utilizada no projeto. Por exemplo:
+
+   - [Visual Studio](https://visualstudio.microsoft.com/)
+   - [Code::Blocks](http://www.codeblocks.org/)
+
+4. **Compilar e Executar os Códigos:** Utilize as ferramentas de compilação fornecidas pela IDE escolhida ou compile manualmente utilizando o compilador GCC. Por exemplo, via linha de comando:
 
    ```bash
-   gcc nome_do_programa.c -o nome_do_executavel
+   g++ -o nome_do_executavel caminho/para/arquivo.cpp
    ./nome_do_executavel
    ```
 
